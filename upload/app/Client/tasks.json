@@ -1,0 +1,27 @@
+[
+    { 
+        "description" : "Going to Walmart on July 2 (Blazer express) ",
+        "tags"  : [ "shopping" ]
+    },
+    { 
+        "description" : "Finishing Homework and lab before sunday",
+        "tags"  : [ "writing", "work" ]
+    },
+    
+    { 
+        "description" : "Calling Home",
+        "tags"  : [ "personal" ]
+    },
+    { 
+        "description" : "Checking Emails and clean room",
+        "tags"  : [ "personal" ]
+    },
+    { 
+        "description" : "Prepare Food",
+        "tags"  : [ "Cooking" ]
+    },
+    { 
+        "description" : "Prepare Coffee",
+        "tags"  : [ "Cooking" ]
+    }
+]
